@@ -2,9 +2,9 @@ Como utilizar:
 
 Existem 3 tipos de modo de execução:
  
-"-c": Gerar chaves
-"-a": Assinar mensagem
-"-v": Verificar assinatura
+"1" => "-c": Gerar chaves
+"2" => "-a": Assinar mensagem
+"3" => "-v": Verificar assinatura
 
 -------------------------------------------------------------------------------------------------------------
 Gerar chaves:
