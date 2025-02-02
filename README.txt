@@ -27,3 +27,4 @@ A execução nesse modo irá gerar um arquivo de texto chamado "assinatura.txt" 
 Verificar assinatura:
 
 Os inputs ocorrem da mesma maneira da assinatura. Devem ser passadas a mensagem, a chave publica e a assinatura
+Caso a assinatura seja válida, o programa retornará "True". Caso contrário, retornará "False".
