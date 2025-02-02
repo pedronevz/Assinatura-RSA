@@ -11,6 +11,7 @@ Gerar chaves:
 
 Nesse modo, o programa irá gerar 2 arquivos de texto contendo as chaves pública e privada, chamados "chave_publica.txt" e "chave_privada.txt"
 O arquivo gerado pelo gerador de chaves funciona como um arquivo de chave
+
 -------------------------------------------------------------------------------------------------------------
 Assinar mensagem:
 
